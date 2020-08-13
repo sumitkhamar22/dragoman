@@ -41,6 +41,7 @@ def install():
         author='Sumit',
         author_email='sumitkhamar21@gmail.com',
         url='https://github.com/sumitkhamar22/dragoman',
+        download_url='https://github.com/sumitkhamar22/dragoman/archive/v_01.tar.gz',
         classifiers=['Development Status :: 5 - Production/Stable',
                      'Intended Audience :: Education',
                      'Intended Audience :: End Users/Desktop',
